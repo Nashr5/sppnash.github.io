@@ -1,2 +1,2 @@
-# sppnash.github.io
-tugas spp
+# Aplikasi-Spp
+Uji Kompetensi
